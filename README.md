@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://cara.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
+  <a href="https://4rios.online">
+    <img alt="Articulo Cientifico" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Cara
+  Portafolio de inicio: Johny Plaza M.
 </h1>
 
 <p align="center">

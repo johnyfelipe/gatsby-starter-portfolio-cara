@@ -12,7 +12,7 @@ module.exports = {
     siteHeadline: `4rios - Computacion en la nube`,
     siteUrl: `https://4rios.online`,
     siteDescription: `Sitio web de prueba sobre implementacion de un e-commerce en la nube`,
-    siteLanguage: `en`,
+    siteLanguage: `es`,
     siteImage: `/banner.jpg`,
     author: `Johny Plaza M.`,
   },

@@ -14,7 +14,7 @@ module.exports = {
     siteDescription: `Sitio web de prueba sobre implementacion de un e-commerce en la nube`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `Johny Plaza M.`,
   },
   plugins: [
     {
